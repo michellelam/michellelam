@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @michellelam, an Economics PhD candidate at the University of Michigan!
-- 👀 I’m interested in applying my knowledge of causal inference to think about problems in trade, labor, and urban spaces.
+- 👋 Hi, I’m @michellelam, an Economist at Bates White!
+- 👀 In addition to traditional economics consulting topics, I’m interested in applying my knowledge of causal inference and natural language processing to think about problems in trade, labor, and urban spaces.
 - 📫 How to reach me: msll [at] umich [dot] edu
 
 <!---
